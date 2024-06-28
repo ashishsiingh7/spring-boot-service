@@ -1,0 +1,12 @@
+com\wrkspot\assignment\UserApplication.class
+com\wrkspot\assignment\config\KafkaConfig.class
+com\wrkspot\assignment\model\Address.class
+com\wrkspot\assignment\exception\GlobalExceptionHandler.class
+com\wrkspot\assignment\exception\ResourceNotFoundException.class
+com\wrkspot\assignment\service\CustomerService.class
+com\wrkspot\assignment\repository\CustomerRepository.class
+com\wrkspot\assignment\exception\ErrorResponse.class
+com\wrkspot\assignment\service\impl\CustomerServiceImpl.class
+com\wrkspot\assignment\controller\CustomerController.class
+com\wrkspot\assignment\model\Customer.class
+com\wrkspot\assignment\service\spec\CustomerSpecification.class
