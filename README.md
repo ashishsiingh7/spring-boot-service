@@ -12,6 +12,14 @@ kafka port: 9092
 ```bash
 mvn spring-boot:run
 ```
+Alternatively you can use the Dockerfile to build the image and run it using following commands:
+```bash
+docker build -t users-app
+```
+```bash
+docker run -p 8080:8080 users-app
+```
+
 ### After running the application, try the following API
 
 ### Sample REST Create and Get API with Spring Boot, Mysql, JPA
