@@ -8,6 +8,7 @@ Database: test
 Set up Kafka.
 
 kafka port: 9092
+kafka topic: customer
 
 ```bash
 mvn spring-boot:run
